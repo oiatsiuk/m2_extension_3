@@ -2,7 +2,8 @@
   "name": "oiatsiuk/m2-extension-3",
   "description": "A minimal skeleton Magento 2 module for Updater Wizard",
   "type": "magento2-module",
-  "version": "1.1.1",
+  "version": "1.0.0",
+  "version_normalized": "1.0.0.0",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
